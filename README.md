@@ -58,9 +58,9 @@ Security-focused learner building hands-on proof of work across web, mobile, API
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OmBobade1&show_icons=true&theme=default&hide_title=true" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=OmBobade1&theme=default" width="48%" />
+<p align="left">
+  <img src="https://img.shields.io/github/followers/OmBobade1?style=for-the-badge&label=Followers&color=blue" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/OmBobade1&label=Public%20Repos&query=%24.public_repos&style=for-the-badge&color=green" />
 </p>
 
 ### 📫 Reach me
