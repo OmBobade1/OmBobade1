@@ -10,12 +10,12 @@ Security-focused learner building hands-on proof of work across web, mobile, API
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
 ---
@@ -35,9 +35,9 @@ Security-focused learner building hands-on proof of work across web, mobile, API
 
 ### 📜 Certifications
 <p align="left">
-  <img src="https://img.shields.io/badge/ISO%2027001-Certified-4C1?style=for-the-badge&logo=iso&logoColor=white" />
-  <img src="https://img.shields.io/badge/AZ--900-Microsoft%20Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/CEH-Certified%20Ethical%20Hacker-D2232A?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/ISO%2027001-Certified-4C1?style=flat-square&logo=iso&logoColor=white" />
+  <img src="https://img.shields.io/badge/AZ--900-Microsoft%20Azure%20Fundamentals-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/CEH-Certified%20Ethical%20Hacker-D2232A?style=flat-square&logo=ethereum&logoColor=white" />
 </p>
 
 ### 🔎 What I work on
@@ -59,8 +59,8 @@ Security-focused learner building hands-on proof of work across web, mobile, API
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://img.shields.io/github/followers/OmBobade1?style=for-the-badge&label=Followers&color=blue" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/OmBobade1&label=Public%20Repos&query=%24.public_repos&style=for-the-badge&color=green" />
+  <img src="https://img.shields.io/github/followers/OmBobade1?style=flat-square&label=Followers&color=blue" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/OmBobade1&label=Public%20Repos&query=%24.public_repos&style=flat-square&color=green" />
 </p>
 
 ### 📫 Reach me
