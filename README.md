@@ -42,7 +42,7 @@ Security-focused engineer with hands-on experience across network scanning, enum
 ### 🔎 What I work on
 
 ### 🔎 What I work on
- **Web Application Security** — OWASP Top 10, SQLi, XSS, SSRF, LFI/RFI, CSRF
+ **Web Application Security** — OWASP Top 10, SQLi, XSS, SSRF, LFI/RFI, CSRF.
  **API Security** — OWASP API Top 10, BOLA, broken authentication
  **Mobile Application Security** — local storage, traffic interception, app-level testing
  **Active Directory** — enumeration, privilege escalation, attack paths
