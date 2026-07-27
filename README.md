@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Om Bobade</h1>
-<h3 align="center">Security Analyst | Vulnerability Assessment \& Penetration Testing | CEH (in progress)</h3>
+<h3 align="center">Security Analyst | Vulnerability Assessment \& Penetration Testing | CEH </h3>
 
 <p align="center">
 Security-focused engineer with hands-on experience across network scanning, enumeration, web app pentesting, wireless attacks, cloud security, and cryptography. I document what I learn and build proof of work to back it up.
