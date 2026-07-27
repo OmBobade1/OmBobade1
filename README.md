@@ -43,7 +43,7 @@ AI Security — prompt injection and agentic system assessment
 📱 mobile-thick-client-security — Mobile and desktop application testing
 📓 C-EH-notes — Structured ethical hacking study notes
 📫 Reach me
-LinkedIn: [add link]
-Email: [add email]
+LinkedIn: www.linkedin.com/in/om-bobade
+Email: Ombobade2003@gmail.com
 ---
 <p align="center"><i>Currently studying for CEH — actively documenting the journey.</i></p>
