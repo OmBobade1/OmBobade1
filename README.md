@@ -41,11 +41,13 @@ Security-focused engineer with hands-on experience across network scanning, enum
 
 ### 🔎 What I work on
 
-* **Vulnerability Assessment \& Penetration Testing (VAPT)** — end-to-end assessments from recon through reporting
-* **Web Application \& API Security** — OWASP Top 10, SQLi, XSS, SSRF, LFI/RFI, CSRF, BOLA
-* **Network \& Active Directory** — scanning, enumeration, wireless attacks, AD attack paths
-* **Cloud Security** — AWS fundamentals (IAM, S3, EC2, VPC), Terraform, Prowler/CIS benchmarking
-* **AI Security** — prompt injection and agentic system assessment
+### 🔎 What I work on
+ **Web Application Security** — OWASP Top 10, SQLi, XSS, SSRF, LFI/RFI, CSRF
+ **API Security** — OWASP API Top 10, BOLA, broken authentication
+ **Mobile Application Security** — local storage, traffic interception, app-level testing
+ **Active Directory** — enumeration, privilege escalation, attack paths
+ **Cloud Security** — AWS fundamentals (IAM, S3, EC2, VPC), Terraform, Prowler/CIS benchmarking
+ **AI Security** — prompt injection and agentic system assessment
 
 ### 🧪 Featured Repositories
 
