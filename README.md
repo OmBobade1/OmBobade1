@@ -39,7 +39,7 @@ Security-focused engineer with hands-on experience across network scanning, enum
 
 </p>
 
-### 🔎 What I work on
+
 
 ### 🔎 What I work on
 *   **Web Application Security** — OWASP Top 10, SQLi, XSS, SSRF, LFI/RFI, CSRF                                                                                                               
