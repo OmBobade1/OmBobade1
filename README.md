@@ -14,7 +14,7 @@ Security-focused engineer with hands-on experience across network scanning, enum
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white" />
 </p>
 
-\---
+
 
 ### 🛠️ Tools of the Trade
 
@@ -60,7 +60,7 @@ Security-focused engineer with hands-on experience across network scanning, enum
 * LinkedIn:www.linkedin.com/in/om-bobade
 * Email:Ombobade2003@gmail.com
 
-\---
+
 
 
 
