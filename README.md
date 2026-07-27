@@ -62,7 +62,7 @@ Security-focused engineer with hands-on experience across network scanning, enum
 * LinkedIn:www.linkedin.com/in/om-bobade
 * Email:Ombobade2003@gmail.com
   
-![Om's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmBobade1&show_icons=true&theme=default&hide_title=true)
+
 
 
 
