@@ -28,7 +28,7 @@ Security-focused engineer with hands-on experience across network scanning, enum
 <p align="left">
   <img src="https://img.shields.io/badge/ISO%2027001-Certified-4C1?style=for-the-badge&logo=iso&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft%20Certified-Fundamentals-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/CEH-In%20Progress-yellow?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/CEH-Certified-4C1?style=for-the-badge&logo=ethereum&logoColor=white" />
 </p>
 🔎 What I work on
 Vulnerability Assessment & Penetration Testing (VAPT) — end-to-end assessments from recon through reporting
@@ -46,4 +46,4 @@ AI Security — prompt injection and agentic system assessment
 LinkedIn: www.linkedin.com/in/om-bobade
 Email: Ombobade2003@gmail.com
 ---
-<p align="center"><i>Currently studying for CEH — actively documenting the journey.</i></p>
+
