@@ -57,8 +57,8 @@ Security-focused engineer with hands-on experience across network scanning, enum
 
 ### 📫 Reach me
 
-* LinkedIn: \[add link]
-* Email: \[add email]
+* LinkedIn:www.linkedin.com/in/om-bobade
+* Email:Ombobade2003@gmail.com
 
 \---
 
