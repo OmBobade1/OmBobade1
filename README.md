@@ -64,8 +64,8 @@ Security-focused learner building hands-on proof of work across web, mobile, API
 </p>
 
 ### 📫 Reach me
-- LinkedIn: [add link]
-- Email: [add email]
+- LinkedIn: www.linkedin.com/in/om-bobade
+- Email: ombobade2003@gmail.com
 
 ---
 <p align="center"><i>Actively seeking entry-level opportunities in Cybersecurity — VAPT or Security Analyst roles.</i></p>
