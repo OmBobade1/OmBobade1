@@ -59,8 +59,8 @@ Security-focused learner building hands-on proof of work across web, mobile, API
 
 ### 📊 GitHub Stats
 <p align="center">
- ![streak](https://streak-stats.demolab.com/?user=OmBobade1&theme=default)
- 
+  <img src="https://github-readme-stats.vercel.app/api?username=OmBobade1&show_icons=true&theme=default&hide_title=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=OmBobade1&theme=default" width="48%" />
 </p>
 
 ### 📫 Reach me
