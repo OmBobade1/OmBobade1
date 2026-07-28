@@ -54,7 +54,7 @@ Security-focused learner building hands-on proof of work across web, mobile, API
 <br clear="left"/>
 
 ### 🔎 What I work on
-- **Network Security** — TCP/IP, OSI Model,IDS/IPS, VPNs, Wireshark, Nmap, SMB/LDAP/DNS Enumeration, Network Hardening, Wireless Security
+- **Network Security** — TCP/IP, OSI Model,IDS/IPS, VPNs, Wireshark, Nmap, SMB/LDAP/DNS Enumeration, Network Hardening.
 - **Web Application Security** — OWASP Top 10, SQLi, XSS, SSRF, LFI/RFI, CSRF
 - **API Security** — OWASP API Top 10, BOLA, broken authentication
 - **Mobile Application Security** — local storage, traffic interception, app-level testing
