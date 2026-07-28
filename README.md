@@ -67,11 +67,12 @@ Security-focused learner building hands-on proof of work across web, mobile, API
 - 📓 **[01-network-security](https://github.com/OmBobade1/notes/tree/main/01-network%20security)** — Structured ethical hacking study notes
 
 - 📓 **[02-web-security](https://github.com/OmBobade1/notes/tree/main/02-web%20security)** — Structured ethical hacking study notes
-- 📓 **[03-mobile-security](https://github.com/OmBobade1/notes/tree/main/03-mobile%20security)** — Structured ethical hacking study notes
-- 📓 **[04-thick-client-security](https://github.com/OmBobade1/notes/tree/main/04-thick-client%20security)** — Structured ethical hacking study notes
-- 📓 **[05-active-directory-security](https://github.com/OmBobade1/notes/tree/main/05-active-directory%20security)** — Structured ethical hacking study notes
-- 📓 **[06-cloud-security/cloud-aws-misconfig-lab](https://github.com/OmBobade1/notes/tree/main/06-cloud%20security/cloud-aws-misconfig-lab)** — Structured ethical hacking study notes
-- 📓 **[07-ai-security](https://github.com/OmBobade1/notes/tree/main/07-ai%20security)** — Structured ethical hacking study notes
+- 📓 **[03-API-security]([https://github.com/OmBobade1/notes/tree/main/03-network%20security](https://github.com/OmBobade1/notes/tree/main/notes/03-API%20Security))** — Structured ethical hacking study notes
+- 📓 **[04-mobile-security](https://github.com/OmBobade1/notes/tree/main/04-mobile%20security)** — Structured ethical hacking study notes
+- 📓 **[05-thick-client-security](https://github.com/OmBobade1/notes/tree/main/05-thick-client%20security)** — Structured ethical hacking study notes
+- 📓 **[06-active-directory-security](https://github.com/OmBobade1/notes/tree/main/06-active-directory%20security)** — Structured ethical hacking study notes
+- 📓 **[07-cloud-security/cloud-aws-misconfig-lab](https://github.com/OmBobade1/notes/tree/main/07-cloud%20security/cloud-aws-misconfig-lab)** — Structured ethical hacking study notes
+- 📓 **[08-ai-security](https://github.com/OmBobade1/notes/tree/main/08-ai%20security)** — Structured ethical hacking study notes
 
 
 ---
