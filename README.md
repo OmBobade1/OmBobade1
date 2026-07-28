@@ -62,7 +62,14 @@ Security-focused learner building hands-on proof of work across web, mobile, API
 - **AI Security** — prompt injection and agentic system assessment
 
 ### 🧪 Featured Repositories
-- 📓 **[C-EH-notes](https://github.com/OmBobade1/C-EH-notes)** — Structured ethical hacking study notes
+- 📓 **[01-network-security](https://github.com/OmBobade1/notes/tree/main/01-network%20security)** — Structured ethical hacking study notes
+
+- 📓 **[02-web-security](https://github.com/OmBobade1/notes/tree/main/02-web%20security)** — Structured ethical hacking study notes
+- 📓 **[03-mobile-security](https://github.com/OmBobade1/notes/tree/main/03-mobile%20security)** — Structured ethical hacking study notes
+- 📓 **[04-thick-client-security](https://github.com/OmBobade1/notes/tree/main/04-thick-client%20security)** — Structured ethical hacking study notes
+- 📓 **[05-active-directory-security](https://github.com/OmBobade1/notes/tree/main/05-active-directory%20security)** — Structured ethical hacking study notes
+- 📓 **[06-cloud-security/cloud-aws-misconfig-lab](https://github.com/OmBobade1/notes/tree/main/06-cloud%20security/cloud-aws-misconfig-lab)** — Structured ethical hacking study notes
+- 📓 **[07-ai-security](https://github.com/OmBobade1/notes/tree/main/07-ai%20security)** — Structured ethical hacking study notes
 
 
 ---
