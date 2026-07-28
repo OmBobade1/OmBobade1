@@ -62,11 +62,8 @@ Security-focused learner building hands-on proof of work across web, mobile, API
 - **AI Security** — prompt injection and agentic system assessment
 
 ### 🧪 Featured Repositories
-- 🌐 **[web-application-security]([https://github.com/OmBobade1/notes/tree/main/01-network%20security](https://github.com/OmBobade1/notes/tree/main/02-web%20security))** — PortSwigger Academy, DVWA, bWAPP, API security
-- 📱 **[mobile-thick-client-security]([https://github.com/OmBobade1/mobile-thick-client-security](https://github.com/OmBobade1/notes/tree/main/03-mobile%20security))** — Mobile and desktop application testing
-- 🏴 **[network-security-labs]([https://github.com/OmBobade1/network-security-labs](https://github.com/OmBobade1/notes/tree/main/01-network%20security))** — OverTheWire Bandit + Active Directory attack write-ups
-- ☁️ **[cloud-ai-security-assessments]([https://github.com/OmBobade1/cloud-ai-security-assessments](https://github.com/OmBobade1/notes/tree/main/06-cloud%20security/cloud-aws-misconfig-lab))** — AWS misconfiguration lab + AI prompt injection assessment
 - 📓 **[C-EH-notes](https://github.com/OmBobade1/C-EH-notes)** — Structured ethical hacking study notes
+
 
 ---
 
