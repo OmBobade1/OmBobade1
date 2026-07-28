@@ -54,9 +54,11 @@ Security-focused learner building hands-on proof of work across web, mobile, API
 <br clear="left"/>
 
 ### 🔎 What I work on
+- **Network Security** — TCP/IP, OSI Model,IDS/IPS, VPNs, Wireshark, Nmap, SMB/LDAP/DNS Enumeration, Network Hardening, Wireless Security
 - **Web Application Security** — OWASP Top 10, SQLi, XSS, SSRF, LFI/RFI, CSRF
 - **API Security** — OWASP API Top 10, BOLA, broken authentication
 - **Mobile Application Security** — local storage, traffic interception, app-level testing
+- **Thick Client Security** — Desktop Application Testing, Client-Server Communication, Binary Analysis, Local Data Storage
 - **Active Directory** — enumeration, privilege escalation, attack paths
 - **Cloud Security** — AWS fundamentals (IAM, S3, EC2, VPC), Terraform, Prowler/CIS benchmarking
 - **AI Security** — prompt injection and agentic system assessment
