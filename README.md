@@ -30,7 +30,6 @@ Security-focused learner building hands-on proof of work across web, mobile, API
 <td><img src="https://img.shields.io/badge/Nessus-00A19A?style=flat-square" /></td>
 <td><img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square" /></td>
 <td><img src="https://img.shields.io/badge/SQLmap-D0021B?style=flat-square" /></td>
-<td><img src="https://img.shields.io/badge/SQLmap-D0021B?style=flat-square" /></td>
 </tr>
 <tr>
 <td><img src="https://img.shields.io/badge/BloodHound-000000?style=flat-square" /></td>
