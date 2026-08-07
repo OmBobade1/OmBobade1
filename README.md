@@ -21,8 +21,8 @@ Security-focused learner building hands-on proof of work across web, mobile, API
 </table>
 
 ---
-
 ### 🛠️ Tools of the Trade
+
 <table align="left" border="0" cellspacing="4" cellpadding="0">
 <tr>
 <td><img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square" /></td>
