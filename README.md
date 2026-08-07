@@ -31,12 +31,13 @@ Security-focused learner building hands-on proof of work across web, mobile, API
 <td align="center"><img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square"></td>
 <td align="center"><img src="https://img.shields.io/badge/SQLmap-D0021B?style=flat-square"></td>
 </tr>
+
 <tr>
 <td align="center"><img src="https://img.shields.io/badge/BloodHound-000000?style=flat-square"></td>
 <td align="center"><img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"></td>
 <td align="center"><img src="https://img.shields.io/badge/Prowler-00B4AB?style=flat-square"></td>
 <td align="center"><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"></td>
-<td></td>
+<td align="center"><img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white"></td>
 </tr>
 </table>
 
