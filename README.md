@@ -74,7 +74,7 @@ Security-focused learner building hands-on proof of work across web, mobile, API
 - 📓 **[05-active-directory-security](https://github.com/OmBobade1/notes/tree/main/Domains/05-active-directory%20security)** — Structured ethical hacking study notes
 - 📓 **[06-cloud-security](https://github.com/OmBobade1/notes/tree/main/Domains/06-cloud%20security)** — Structured ethical hacking study notes
 - 📓 **[07-ai security](https://github.com/OmBobade1/notes/tree/main/Domains/07-ai%20security)** — Structured ethical hacking study notes
-- 📓 **[08-hick Client Security]([https://github.com/OmBobade1/notes/tree/main/Domains/08-ai%20security](https://github.com/OmBobade1/notes/tree/main/Domains/08-thick-client%20security)** — Structured ethical hacking study notes
+- 📓 **[08-Thick Client Security](https://github.com/OmBobade1/notes/tree/main/Domains/08-thick-client%20security)** — Structured ethical hacking study notes
 
 
 ---
